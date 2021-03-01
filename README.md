@@ -1,6 +1,11 @@
 # Text Editor
 
-> It is basically designed for the programz-exchange(http://programz-exchange.epizy.com/) website, in this i created a article block to publish articles.To publish an article,  
+> It is basically designed for the programz-exchange(http://programz-exchange.epizy.com/) website, in this i created a article block to publish articles.To publish an article, some data is needed and we need to know how our article is going to be look in browser so for that i designed this text editor through which u can see how ur article how is looks in browser.
+
+> Some rules are there to follow
+
+- All commands are should be at the left side of data.
+- There should be some gap between commands and data. 
 
 
 
